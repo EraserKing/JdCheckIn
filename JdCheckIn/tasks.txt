@@ -1,0 +1,24 @@
+﻿京东 图书 主^https://pro.m.jd.com/mall/active/3SC6rw5iBg66qrXPGmZMqFDwcyXi/index.html^//span[@class="signIn_btnTxt"]^N
+京东 清洁 下^https://pro.m.jd.com/mall/active/2Tjm6ay1ZbZ3v7UbriTj6kHy9dn6/index.html^//span[@class="signIn_btnTxt"]^Y
+京东 平价菜场 右^https://pro.m.jd.com/mall/active/Wcu2LVCFMkBP3HraRvb7pgSpt64/index.html^SKIP^N
+京东 美食馆 主^https://pro.m.jd.com/mall/active/4PzvVmLSBq5K63oq4oxKcDtFtzJo/index.html^//div[@class="sign_btn"]^N
+京东 个护 下^https://pro.m.jd.com/mall/active/NJ1kd1PJWhwvhtim73VPsD1HwY3/index.html^//div[@class="sign_btn"]^Y
+京东 美妆 主^https://pro.m.jd.com/mall/active/2smCxzLNuam5L14zNJHYu43ovbAP/index.html^//div[@class="sign_btn"]^N
+京东 珠宝 右^https://pro.m.jd.com/mall/active/zHUHpTHNTaztSRfNBFNVZscyFZU/index.html^//div[@class="signIn_bg"]^N
+京东 母婴 下^https://pro.m.jd.com/mall/active/3BbAVGQPDd6vTyHYjmAutXrKAos6/index.html^//div[@class="sign_btn"]^Y
+京东 数码电器 主^https://prodev.m.jd.com/mall/active/4SWjnZSCTHPYjE5T7j35rxxuMTb6/index.html^//div[@class="sign_btn"]^N
+京东 电竞馆 主^https://pro.m.jd.com/mall/active/CHdHQhA5AYDXXQN9FLt3QUAPRsB/index.html^//span[@class="signIn_btnTxt"]^N
+京东 童装馆 下^https://pro.m.jd.com/mall/active/3Af6mZNcf5m795T8dtDVfDwWVNhJ/index.html^//div[@class="sign_btn"]^Y
+京东 健康 主^https://prodev.m.jd.com/mall/active/w2oeK5yLdHqHvwef7SMMy4PL8LF/index.html^//div[@class="sign_btn"]^N
+京东 失眠 主^https://pro.m.jd.com/mall/active/xK148m4kWj5hBcTPuJUNNXH3AkJ/index.html^//span[@class="signIn_btnTxt"]^N
+京东国际 主^https://pro.m.jd.com/mall/active/4X1bgaCU4aZbEwcJuFtJHxTDmVjL/index.html^//img[starts-with(@source, 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjoAAACMCAMAAABCmvOzAAAA')]^N
+京东 拍拍二手 主^https://pro.m.jd.com/mall/active/3S28janPLYmtFxypu37AYAGgivfp/index.html^//span[@class="signIn_btnTxt"]^N
+京东 医药馆 主^https://pro.m.jd.com/mall/active/3tqTG5sF1xCUyC6vgEF5CLCxGn7w/index.html^//span[@class="signIn_btnTxt"]^N
+京东 宠物 主^https://pro.m.jd.com/mall/active/37ta5sh5ocrMZF3Fz5UMJbTsL42/index.html^//span[@class="signIn_btnTxt"]^N
+京东 钟表 右^https://pro.m.jd.com/mall/active/2BcJPCVVzMEtMUynXkPscCSsx68W/index.html^//div[@class="signIn_bg"]^N
+京东 箱包 右^https://prodev.m.jd.com/mall/active/ZrH7gGAcEkY2gH8wXqyAPoQgk6t/index.html^//div[@class='close_btn']|//div[@class="signIn_bg"]^N
+京东 鞋靴 右^https://pro.m.jd.com/mall/active/4RXyb1W4Y986LJW8ToqMK14BdTD/index.html^//div[@class='close_btn']|//div[@class="signIn_bg"]^N
+摇一摇-1^https://vip.m.jd.com/newPage/reward/123dd^//div[@report-eventid="MJDVip_Shake"]^N
+摇一摇-2^https://vip.m.jd.com/newPage/reward/123dd^//div[@report-eventid="MJDVip_Shake"]^N
+摇一摇-3^https://vip.m.jd.com/newPage/reward/123dd^//div[@report-eventid="MJDVip_Shake"]^N
+签到翻牌^https://prodev.m.jd.com/mall/active/36V2Qw59VPNsuLxY84vCFtxFzrFs/index.html^//div[@class="sign_btn"]^N
